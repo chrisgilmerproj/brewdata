@@ -1,4 +1,4 @@
-# Beer Data
+# BrewData
 
 The beer data is split into four sections: Cereals, Hops, Water, and Yeast.
 The data is provided in `*.ini` files, one file per data item.  Each item
@@ -19,7 +19,7 @@ ensure there is no copyright problems.
 
 ## Running the scraper
 
-``sh
+```sh
 $ virtualenv env
 $ source env/bin/activate
 $ pip install -r requirements.txt
