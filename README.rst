@@ -40,14 +40,16 @@ always be asked for to ensure there is no copyright problems.
 Running the scraper
 ~~~~~~~~~~~~~~~~~~~
 
+The scrapers for each data type are easy to run:
+
 .. code:: sh
 
-    $ virtualenv env
-    $ source env/bin/activate
-    $ pip install -r requirements.txt
-    $ scrapy runspider scraper/spiders/cereals_spider.py
-    $ scrapy runspider scraper/spiders/hops_spider.py
-    $ scrapy runspider scraper/spiders/yeast_spider.py
+    make scrape_cereals
+    ...
+    make scrape_hops
+    ...
+    make scrape_yeast
+    ...
 
 Shell commands
 ~~~~~~~~~~~~~~
