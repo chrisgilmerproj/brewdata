@@ -4,6 +4,17 @@ BrewData
 Data for use with
 `BrewDay <https://github.com/chrisgilmerproj/brewday>`__.
 
+Usage
+-----
+
+To use BrewData in another project you can do the following:
+
+.. code:: py
+
+    >>> import brewdata
+    >>> brewdata.where()
+    '/usr/local/lib/python2.7/site-packages/brewdata/'
+
 Format
 ------
 

@@ -2,6 +2,16 @@
 
 Data for use with [BrewDay](https://github.com/chrisgilmerproj/brewday).
 
+## Usage
+
+To use BrewData in another project you can do the following:
+
+```py
+>>> import brewdata
+>>> brewdata.where()
+'/usr/local/lib/python2.7/site-packages/brewdata/'
+```
+
 ## Format
 
 The beer data is split into four sections: Cereals, Hops, Water, and Yeast.
