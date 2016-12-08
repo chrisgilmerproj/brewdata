@@ -12,9 +12,17 @@ from scraper.items import CerealsItem
 from scraper.items import HopsItem
 from scraper.items import YeastItem
 
-CEREALS_DIR = './cereals'
-HOPS_DIR = './hops'
-YEAST_DIR = './yeast'
+from brewdata import cereals as cereals_data
+from brewdata import hops as hops_data
+from brewdata import yeast as yeast_data
+
+# CEREALS_DIR = './brewdata/cereals'
+# HOPS_DIR = './brewdata/hops'
+# YEAST_DIR = './brewdata/yeast'
+
+CEREALS_DIR = cereals_data()
+HOPS_DIR = hops_data()
+YEAST_DIR = yeast_data()
 
 
 class CerealsPipeline(object):

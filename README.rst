@@ -15,6 +15,14 @@ To use BrewData in another project you can do the following:
     >>> brewdata.where()
     '/usr/local/lib/python2.7/site-packages/brewdata/'
 
+It may be more useful to find the specific location of data:
+
+.. code:: py
+
+    >>> from brewdata import cereals as cereals_data
+    >>> cereals_data()
+    '/usr/local/lib/python2.7/site-packages/brewdata/cereals'
+
 Format
 ------
 

@@ -2,8 +2,6 @@ include CONTRIBUTING.md
 include LICENSE.txt
 include README.rst
 include README.md
-include cereals/*.json
-include hops/*.json
-include yeast/*.json
+include brewdata/*/*.json
 global-exclude __pycache__
 global-exclude *.py[co]

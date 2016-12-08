@@ -21,13 +21,11 @@ setup(
                                     "tests.*",
                                     "tests"]),
     package_data={
-        'cereals': ['*.json'],
-        'hops': ['*.json'],
-        'yeast': ['*.json'],
+        'brewdata': ['*/*.json'],
     },
     include_package_data=True,
     zip_safe=True,
-    keywords='brew brewing beer grain hops yeast water',
+    keywords='brew brewing beer grain hops yeast',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
