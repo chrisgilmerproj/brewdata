@@ -24,7 +24,7 @@ setup(
         'brewdata': ['*/*.json'],
     },
     include_package_data=True,
-    zip_safe=True,
+    zip_safe=False,
     keywords='brew brewing beer grain hops yeast',
     classifiers=[
         'Development Status :: 3 - Alpha',
