@@ -1,10 +1,15 @@
 #! /usr/bin/make 
 
-VENV_DIR?=env
+PACKAGE_NAME=brewdata
+
+VENV_DIR?=.venv
 VENV_ACTIVATE=$(VENV_DIR)/bin/activate
 WITH_VENV=. $(VENV_ACTIVATE);
 
-.PHONY: help venv scrape_cereals scrape_hops scrape_yeast
+TEST_OUTPUT?=nosetests.xml
+COVERAGE_OUTPUT?=coverage.xml
+
+.PHONY: help venv setup clean teardown lint test package upload install
 
 help:  ## Print the help documentation
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
@@ -17,13 +22,37 @@ $(VENV_ACTIVATE): requirements.txt requirements-dev.txt
 
 venv: $(VENV_ACTIVATE)
 
-scrape_cereals:  ## Scrape cereals data
-	$(WITH_VENV) scrapy runspider scraper/spiders/cereals_spider.py
+setup: venv
 
-scrape_hops:  ## Scrape hops data
-	$(WITH_VENV) scrapy runspider scraper/spiders/hops_spider.py
+clean: ## Clean the library and test files
+	python setup.py clean
+	rm -rf build/
+	rm -rf dist/
+	rm -rf *.egg*/
+	rm -f MANIFEST
+	rm -f $(TEST_OUTPUT)
+	coverage erase || rm -f .coverage
+	rm -f $(COVERAGE_OUTPUT)
+	find ./ -type d -name '__pycache__' -delete
+	find ./ -type f -name '*.pyc' -delete
 
-scrape_yeast:  ## Scrape yeast data
-	$(WITH_VENV) scrapy runspider scraper/spiders/yeast_spider.py
+teardown: ## Remove all virtualenv files
+	rm -rf $(VENV_DIR)/
+	rm -rf .tox/
+
+lint: venv ## Run linting tests
+	$(WITH_VENV) flake8 $(PACKAGE_NAME)/
+
+test:  ## Run unit tests
+	tox
+
+package: clean ## Create the python package
+	python setup.py build sdist check
+
+upload: clean ## Upload the python package
+	python setup.py build sdist check upload -r pypi
+
+install:  ## Install the python package
+	$(WITH_VENV) python setup.py install
 
 default: help
