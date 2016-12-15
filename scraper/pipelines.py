@@ -62,7 +62,7 @@ class HopsPipeline(object):
         filename = "{}.json".format(filename)
         filepath = os.path.join(os.path.abspath(HOPS_DIR), filename)
         if item[u'alpha_acid_composition']:
-            item[u'percent_alpha_acids'] = round(float(item['alpha_acid_composition'].split('-')[0].split('%')[0]) / 100., 3)  # nopep8
+            item[u'percent_alpha_acids'] = round(float(item['alpha_acid_composition'].split('-')[0].split('%')[0]) / 100., 3)  # noqa
         with open(filepath, 'wb') as f:
             line = json.dumps(dict(item))
             f.write(line)
@@ -90,7 +90,8 @@ class YeastPipeline(object):
         item[u'attenuation'] = item[u'attenuation'].replace(">", "")
         item[u'attenuation'] = item[u'attenuation'].replace("%", "")
         item[u'attenuation'] = item[u'attenuation'].split('-')
-        item[u'attenuation'] = [float(att) / 100. for att in item[u'attenuation']]  # nopep8
+        item[u'attenuation'] = [float(att) / 100. for att in item[u'attenuation']]  # noqa
+        item[u'percent_attenuation'] = sum(item[u'attenuation']) / len(item[u'attenuation'])  # noqa
 
         item[u'name'] = item[u'name'].replace('\u2013', '-')
 

@@ -70,6 +70,7 @@ class YeastItem(scrapy.Item):
     manufacturer = scrapy.Field()
     yeast_id = scrapy.Field()
     attenuation = scrapy.Field()
+    percent_attenuation = scrapy.Field()
     flocculation = scrapy.Field()
     optimum_temp = scrapy.Field()
     alcohol_tolerance = scrapy.Field()
