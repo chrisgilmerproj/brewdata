@@ -14,7 +14,7 @@ setup(
     license="MIT",
     description='Brew Data',
     url='https://github.com/chrisgilmerproj/brewdata',
-    download_url='https://github.com/chrisgilmerproj/brewdata/tarball/{}'.format(VERSION),  # nopep8
+    download_url='https://github.com/chrisgilmerproj/brewdata/tarball/{}'.format(VERSION),  # noqa
     packages=find_packages(exclude=["scraper*",
                                     "*.tests",
                                     "*.tests.*",

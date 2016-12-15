@@ -11,8 +11,8 @@ class HopslistSpider(scrapy.Spider):
     )
 
     def parse(self, response):
-        # for href in response.xpath(u"//ul[@class='category-module']/li/h6/a/@href").extract():  # nopep8
-        for href in response.xpath(u"//ul[@class='display-posts-listing']/li/a/@href").extract():  # nopep8
+        # for href in response.xpath(u"//ul[@class='category-module']/li/h6/a/@href").extract():  # noqa
+        for href in response.xpath(u"//ul[@class='display-posts-listing']/li/a/@href").extract():  # noqa
             url = response.urljoin(href)
             yield scrapy.Request(url, callback=self.parse_hops_contents)
 
@@ -23,7 +23,7 @@ class HopslistSpider(scrapy.Spider):
         item[u'source_id'] = item[u'source'].split(u'/')[-2]
 
         item[u'component'] = item[u'source'].split(u'/')[-3]
-        name = response.xpath(u"//h1[@class='entry-title']/text()").extract()  # nopep8
+        name = response.xpath(u"//h1[@class='entry-title']/text()").extract()  # noqa
         item[u'name'] = u'_'.join(name)
         for entry in response.xpath(u'//table/tbody/tr'):
             category = entry.xpath(u'td[1]/text()').extract()

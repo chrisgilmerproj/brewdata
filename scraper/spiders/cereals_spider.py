@@ -11,7 +11,7 @@ class BeerSmithSpider(scrapy.Spider):
     )
 
     def parse(self, response):
-        for href in response.xpath(u'//table[@class="ms-list4-main"]/tbody/tr/td/a/@href').extract():  # nopep8
+        for href in response.xpath(u'//table[@class="ms-list4-main"]/tbody/tr/td/a/@href').extract():  # noqa
             url = response.urljoin(href)
             yield scrapy.Request(url, callback=self.parse_cereals_contents)
 
@@ -19,12 +19,12 @@ class BeerSmithSpider(scrapy.Spider):
         item = CerealsItem()
 
         item[u'source'] = response.url
-        source_id = item[u'source'].split(u'/')[-1].split(u'.')[0].split(u'_')[-1]
+        source_id = item[u'source'].split(u'/')[-1].split(u'.')[0].split(u'_')[-1]  # noqa
         item[u'source_id'] = source_id
 
         name = response.xpath(u'//h2/text()').extract()[0]
         item[u'name'] = name
-        notes = response.xpath(u"//body/center/table/tbody/tr/td/text()").extract()  # nopep8
+        notes = response.xpath(u"//body/center/table/tbody/tr/td/text()").extract()  # noqa
         item[u'notes'] = u' '.join(notes).strip()
 
         for entry in response.xpath(u'//table/tbody/tr/td/table/tbody/tr/td'):
