@@ -9,10 +9,10 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'scraper'
+BOT_NAME = u'scraper'
 
-SPIDER_MODULES = ['scraper.spiders']
-NEWSPIDER_MODULE = 'scraper.spiders'
+SPIDER_MODULES = [u'scraper.spiders']
+NEWSPIDER_MODULE = u'scraper.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -65,9 +65,9 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'scraper.pipelines.CerealsPipeline': 300,
-    'scraper.pipelines.HopsPipeline': 300,
-    'scraper.pipelines.YeastPipeline': 300,
+    u'scraper.pipelines.CerealsPipeline': 300,
+    u'scraper.pipelines.HopsPipeline': 300,
+    u'scraper.pipelines.YeastPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
