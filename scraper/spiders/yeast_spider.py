@@ -4,28 +4,28 @@ from scraper.items import YeastItem
 
 
 class YeastlistSpider(scrapy.Spider):
-    name = "yeastlist"
-    allowed_domains = ["brewersfriend.com"]
+    name = u"yeastlist"
+    allowed_domains = [u"brewersfriend.com"]
     start_urls = (
-        'http://www.brewersfriend.com/yeast-wyeast/',
-        'http://www.brewersfriend.com/yeast-whitelabs/',
-        'http://www.brewersfriend.com/yeast-fermentis/',
-        'http://www.brewersfriend.com/yeast-danstar/',
-        'http://www.brewersfriend.com/yeast-other/',
+        u'http://www.brewersfriend.com/yeast-wyeast/',
+        u'http://www.brewersfriend.com/yeast-whitelabs/',
+        u'http://www.brewersfriend.com/yeast-fermentis/',
+        u'http://www.brewersfriend.com/yeast-danstar/',
+        u'http://www.brewersfriend.com/yeast-other/',
     )
 
     def parse(self, response):
 
         source = response.url
-        manufacturer = response.xpath("//h2/text()").extract()[0]
-        if 'by' in manufacturer:
-            manufacturer = manufacturer.split(' by ')[-1]
-        elif 'By' in manufacturer:
-            manufacturer = manufacturer.split(' By ')[-1]
-        elif 'Other' in manufacturer:
-            manufacturer = 'Other'
-        for entry in response.xpath("//div[@class='post']/table/tbody/tr"):
-            data = entry.xpath("td/span/text()").extract()
+        manufacturer = response.xpath(u"//h2/text()").extract()[0]
+        if u'by' in manufacturer:
+            manufacturer = manufacturer.split(u' by ')[-1]
+        elif u'By' in manufacturer:
+            manufacturer = manufacturer.split(u' By ')[-1]
+        elif u'Other' in manufacturer:
+            manufacturer = u'Other'
+        for entry in response.xpath(u"//div[@class='post']/table/tbody/tr"):
+            data = entry.xpath(u"td/span/text()").extract()
             if len(data) and data[0] != u'\n':
                 item = YeastItem()
                 item[u'name'] = data[0]
@@ -38,7 +38,7 @@ class YeastlistSpider(scrapy.Spider):
                 item[u'alcohol_tolerance'] = data[5]
                 yield item
             elif len(data) == 0:
-                data = entry.xpath("td/text()").extract()
+                data = entry.xpath(u"td/text()").extract()
                 if len(data) and data[0] != u'\n':
                     item = YeastItem()
                     item[u'name'] = data[0]
