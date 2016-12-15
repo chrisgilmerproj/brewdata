@@ -12,15 +12,15 @@ def where():
 
 
 def cereals():
-    return(os.path.join(where(), 'cereals'))
+    return(os.path.join(where(), b'cereals'))
 
 
 def hops():
-    return(os.path.join(where(), 'hops'))
+    return(os.path.join(where(), b'hops'))
 
 
 def yeast():
-    return(os.path.join(where(), 'yeast'))
+    return(os.path.join(where(), b'yeast'))
 
 
 if __name__ == '__main__':
