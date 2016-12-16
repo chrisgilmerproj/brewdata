@@ -53,14 +53,18 @@ $ scrapy shell "http://www.hopslist.com/"
 
 ## Sources
 
+The data comes from several scraped websites.  Additional data can be found in
+other listed sources.  Scraped sources have "(scraped)" next to them.
+
 ### Cereals
 
-- http://beersmith.com/grain-list/
+- http://beersmith.com/grain-list/ (scraped)
 
 ### Hops
 
-- http://www.hopslist.com/
+- http://www.hopslist.com/ (scraped)
+- http://cropandsoil.oregonstate.edu/hopcultivars/
 
 ### Yeast
 
-- http://www.brewersfriend.com/yeast/
+- http://www.brewersfriend.com/yeast/ (scraped)
