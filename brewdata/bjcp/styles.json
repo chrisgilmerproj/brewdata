@@ -1,1 +1,4207 @@
-{"1": {"A": {"category": 1, "subcategory": "A", "style": "Lite American Lager", "og": [1.028, 1.04], "fg": [0.998, 1.008], "abv": [0.028, 0.042], "ibu": [8.0, 12.0], "color": [2.0, 3.0], "tags": "", "strength": "session-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "north-america", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "1A"}, "B": {"category": 1, "subcategory": "B", "style": "American Lager", "og": [1.04, 1.05], "fg": [1.004, 1.01], "abv": [0.042, 0.053], "ibu": [8.0, 18.0], "color": [2.0, 4.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "north-america", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "1B + 1C (1)"}, "C": {"category": 1, "subcategory": "C", "style": "Cream Ale", "og": [1.042, 1.055], "fg": [1.006, 1.012], "abv": [0.042, 0.056], "ibu": [15.0, 20.0], "color": [2.5, 5.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "any-fermentation", "conditioning": "", "region_of_origin": "north-america", "style_family": "pale-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "6A"}, "D": {"category": 1, "subcategory": "D", "style": "American Wheat Beer", "og": [1.04, 1.055], "fg": [1.008, 1.013], "abv": [0.04, 0.055], "ibu": [15.0, 30.0], "color": [3.0, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "any-fermentation", "conditioning": "", "region_of_origin": "north-america", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "6D"}}, "2": {"A": {"category": 2, "subcategory": "A", "style": "International Pale Lager", "og": [1.042, 1.05], "fg": [1.008, 1.012], "abv": [0.046, 0.06], "ibu": [18.0, 25.0], "color": [2.0, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "1C (2)"}, "B": {"category": 2, "subcategory": "B", "style": "International Amber Lager", "og": [1.042, 1.055], "fg": [1.008, 1.014], "abv": [0.046, 0.06], "ibu": [8.0, 25.0], "color": [7.0, 14.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "", "style_family": "amber-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "C": {"category": 2, "subcategory": "C", "style": "International Dark Lager", "og": [1.044, 1.056], "fg": [1.008, 1.012], "abv": [0.042, 0.06], "ibu": [8.0, 20.0], "color": [14.0, 22.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "", "style_family": "dark-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "4A"}}, "3": {"A": {"category": 3, "subcategory": "A", "style": "Czech Pale Lager", "og": [1.028, 1.044], "fg": [1.008, 1.014], "abv": [0.03, 0.041], "ibu": [20.0, 35.0], "color": [3.0, 6.0], "tags": "", "strength": "session-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": 3, "subcategory": "B", "style": "Czech Premium pale lager", "og": [1.044, 1.06], "fg": [1.013, 1.017], "abv": [0.042, 0.058], "ibu": [30.0, 45.0], "color": [3.5, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "2B"}, "C": {"category": 3, "subcategory": "C", "style": "Czech Amber Lager", "og": [1.044, 1.06], "fg": [1.013, 1.017], "abv": [0.042, 0.058], "ibu": [20.0, 35.0], "color": [10.0, 16.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "amber-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "D": {"category": 3, "subcategory": "D", "style": "Czech Dark Lager", "og": [1.044, 1.06], "fg": [1.013, 1.017], "abv": [0.044, 0.058], "ibu": [18.0, 34.0], "color": [14.0, 35.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "dark-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}}, "4": {"A": {"category": 4, "subcategory": "A", "style": "Munich Helles", "og": [1.044, 1.048], "fg": [1.006, 1.012], "abv": [0.047, 0.054], "ibu": [16.0, 22.0], "color": [3.0, 5.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "1D"}, "B": {"category": 4, "subcategory": "B", "style": "Festbier", "og": [1.054, 1.057], "fg": [1.01, 1.012], "abv": [0.058, 0.063], "ibu": [18.0, 25.0], "color": [4.0, 7.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "C": {"category": 4, "subcategory": "C", "style": "Helles Bock", "og": [1.064, 1.072], "fg": [1.011, 1.018], "abv": [0.063, 0.074], "ibu": [23.0, 35.0], "color": [6.0, 11.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "bock-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "5A"}}, "5": {"A": {"category": 5, "subcategory": "A", "style": "German Leichtbier", "og": [1.026, 1.034], "fg": [1.006, 1.01], "abv": [0.024, 0.036], "ibu": [15.0, 28.0], "color": [2.0, 5.0], "tags": "", "strength": "session-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": 5, "subcategory": "B", "style": "Kolsch", "og": [1.044, 1.05], "fg": [1.007, 1.011], "abv": [0.044, 0.052], "ibu": [18.0, 30.0], "color": [3.5, 5.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "6C"}, "C": {"category": 5, "subcategory": "C", "style": "German Exportbier", "og": [1.048, 1.056], "fg": [1.01, 1.015], "abv": [0.048, 0.06], "ibu": [20.0, 30.0], "color": [4.0, 7.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "1E"}, "D": {"category": 5, "subcategory": "D", "style": "German Pils", "og": [1.044, 1.05], "fg": [1.008, 1.013], "abv": [0.044, 0.052], "ibu": [22.0, 40.0], "color": [2.0, 5.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "2A"}}, "6": {"A": {"category": 6, "subcategory": "A", "style": "Marzen", "og": [1.054, 1.06], "fg": [1.01, 1.014], "abv": [0.058, 0.063], "ibu": [18.0, 24.0], "color": [8.0, 17.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "amber-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "3B"}, "B": {"category": 6, "subcategory": "B", "style": "Dunkels Bock", "og": [1.064, 1.072], "fg": [1.013, 1.019], "abv": [0.063, 0.072], "ibu": [20.0, 27.0], "color": [14.0, 22.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "bock-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "5B"}}, "7": {"A": {"category": 7, "subcategory": "A", "style": "Vienna Lager", "og": [1.048, 1.055], "fg": [1.01, 1.014], "abv": [0.047, 0.055], "ibu": [18.0, 30.0], "color": [9.0, 15.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "amber-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "3A"}, "B": {"category": 7, "subcategory": "B", "style": "Altbier", "og": [1.044, 1.052], "fg": [1.008, 1.014], "abv": [0.043, 0.055], "ibu": [25.0, 50.0], "color": [11.0, 17.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "7C"}, "C1": {"category": 7, "subcategory": "C1", "style": "Kellerbier: Munich Kellerbier", "og": [1.045, 1.051], "fg": [1.008, 1.012], "abv": [0.047, 0.054], "ibu": [20.0, 35.0], "color": [3.0, 7.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "pale-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": ""}, "C2": {"category": 7, "subcategory": "C2", "style": "Kellerbier: Franconian Kellerbier", "og": [1.048, 1.054], "fg": [1.012, 1.016], "abv": [0.048, 0.054], "ibu": [25.0, 40.0], "color": [7.0, 17.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "amber-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": ""}}, "8": {"A": {"category": 8, "subcategory": "A", "style": "Munich Dunkel", "og": [1.048, 1.056], "fg": [1.01, 1.016], "abv": [0.045, 0.056], "ibu": [18.0, 28.0], "color": [14.0, 28.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "dark-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "4B"}, "B": {"category": 8, "subcategory": "B", "style": "Schwarzbier", "og": [1.046, 1.052], "fg": [1.01, 1.016], "abv": [0.044, 0.054], "ibu": [20.0, 30.0], "color": [17.0, 30.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "dark-lager-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "4C"}}, "9": {"A1": {"category": 9, "subcategory": "A1", "style": "Doppelbock  (pale)", "og": [1.072, 1.112], "fg": [1.016, 1.024], "abv": [0.07, 0.1], "ibu": [16.0, 26.0], "color": [6.0, 25.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "bock-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "5C"}, "A2": {"category": 9, "subcategory": "A2", "style": "Doppelbock  (Amber)", "og": [1.072, 1.112], "fg": [1.016, 1.024], "abv": [0.07, 0.1], "ibu": [16.0, 26.0], "color": [6.0, 25.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "bock-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "5C"}, "B": {"category": 9, "subcategory": "B", "style": "Eisbock", "og": [1.078, 1.12], "fg": [1.02, 1.035], "abv": [0.09, 0.14], "ibu": [25.0, 35.0], "color": [18.0, 30.0], "tags": "", "strength": "very-high-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "central-europe", "style_family": "bock-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "5D"}, "C": {"category": 9, "subcategory": "C", "style": "Baltic Porter", "og": [1.06, 1.09], "fg": [1.016, 1.024], "abv": [0.065, 0.095], "ibu": [20.0, 40.0], "color": [17.0, 30.0], "tags": "", "strength": "high-strength", "color_name": "dark-color", "fermentation": "any-fermentation", "conditioning": "lagered", "region_of_origin": "eastern-europe", "style_family": "porter-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "12C"}}, "10": {"A": {"category": 10, "subcategory": "A", "style": "Weizen/Weissbier", "og": [1.044, 1.052], "fg": [1.01, 1.014], "abv": [0.043, 0.056], "ibu": [8.0, 15.0], "color": [2.0, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "15A"}, "B": {"category": 10, "subcategory": "B", "style": "Dunkels Weissbier", "og": [1.044, 1.056], "fg": [1.01, 1.014], "abv": [0.043, 0.056], "ibu": [10.0, 18.0], "color": [14.0, 23.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "15B"}, "C": {"category": 10, "subcategory": "C", "style": "Weizenbock", "og": [1.064, 1.09], "fg": [1.015, 1.022], "abv": [0.065, 0.09], "ibu": [15.0, 30.0], "color": [6.0, 25.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "15C"}}, "11": {"A": {"category": 11, "subcategory": "A", "style": "Ordinary Bitter", "og": [1.03, 1.039], "fg": [1.007, 1.011], "abv": [0.032, 0.038], "ibu": [25.0, 35.0], "color": [8.0, 14.0], "tags": "", "strength": "session-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "8A"}, "B": {"category": 11, "subcategory": "B", "style": "Best Bitter", "og": [1.04, 1.048], "fg": [1.008, 1.012], "abv": [0.038, 0.046], "ibu": [25.0, 40.0], "color": [8.0, 16.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "8B"}, "C": {"category": 11, "subcategory": "C", "style": "Strong Bitter", "og": [1.048, 1.06], "fg": [1.01, 1.016], "abv": [0.046, 0.062], "ibu": [30.0, 50.0], "color": [8.0, 18.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "8C"}}, "12": {"A": {"category": 12, "subcategory": "A", "style": "English Golden Ale", "og": [1.038, 1.053], "fg": [1.006, 1.012], "abv": [0.038, 0.05], "ibu": [20.0, 45.0], "color": [2.0, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "pale-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": 12, "subcategory": "B", "style": "Australian Sparkling Ale", "og": [1.038, 1.05], "fg": [1.004, 1.006], "abv": [0.045, 0.06], "ibu": [20.0, 35.0], "color": [4.0, 7.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "pacific", "style_family": "pale-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "C": {"category": 12, "subcategory": "C", "style": "English IPA", "og": [1.05, 1.075], "fg": [1.01, 1.018], "abv": [0.05, 0.075], "ibu": [40.0, 60.0], "color": [6.0, 14.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "ipa-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "14A"}}, "13": {"A": {"category": 13, "subcategory": "A", "style": "Dark Mild", "og": [1.03, 1.038], "fg": [1.008, 1.013], "abv": [0.03, 0.038], "ibu": [10.0, 25.0], "color": [12.0, 25.0], "tags": "", "strength": "session-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "brown-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "11A"}, "B": {"category": 13, "subcategory": "B", "style": "English Brown Ale", "og": [1.04, 1.052], "fg": [1.008, 1.013], "abv": [0.042, 0.054], "ibu": [20.0, 30.0], "color": [12.0, 22.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "brown-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "11C"}, "C": {"category": 13, "subcategory": "C", "style": "EnglishBrown Porter", "og": [1.04, 1.052], "fg": [1.008, 1.014], "abv": [0.04, 0.054], "ibu": [18.0, 35.0], "color": [20.0, 30.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "porter-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "12A"}}, "14": {"A": {"category": 14, "subcategory": "A", "style": "Scottish Light", "og": [1.03, 1.035], "fg": [1.01, 1.013], "abv": [0.025, 0.032], "ibu": [10.0, 20.0], "color": [17.0, 22.0], "tags": "", "strength": "session-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "9A"}, "B": {"category": 14, "subcategory": "B", "style": "Scottish Heavy", "og": [1.035, 1.04], "fg": [1.01, 1.015], "abv": [0.032, 0.039], "ibu": [10.0, 20.0], "color": [13.0, 22.0], "tags": "", "strength": "session-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "9B"}, "C": {"category": 14, "subcategory": "C", "style": "Scottish Export", "og": [1.04, 1.06], "fg": [1.01, 1.016], "abv": [0.039, 0.06], "ibu": [15.0, 30.0], "color": [13.0, 22.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "9C"}}, "15": {"A": {"category": 15, "subcategory": "A", "style": "Irish Red Ale", "og": [1.036, 1.046], "fg": [1.01, 1.014], "abv": [0.038, 0.05], "ibu": [18.0, 28.0], "color": [9.0, 14.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "9D"}, "B": {"category": 15, "subcategory": "B", "style": "Irish Stout", "og": [1.036, 1.044], "fg": [1.007, 1.011], "abv": [0.04, 0.045], "ibu": [25.0, 45.0], "color": [25.0, 40.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "stout-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13A (1)"}, "C": {"category": 15, "subcategory": "C", "style": "Irish Extra Stout", "og": [1.052, 1.062], "fg": [1.01, 1.014], "abv": [0.055, 0.065], "ibu": [35.0, 50.0], "color": [25.0, 40.0], "tags": "", "strength": "high-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "stout-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13A (2)"}}, "16": {"A": {"category": 16, "subcategory": "A", "style": "Sweet Stout", "og": [1.044, 1.06], "fg": [1.012, 1.024], "abv": [0.04, 0.06], "ibu": [20.0, 40.0], "color": [30.0, 40.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "stout-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "sweet", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13B"}, "B": {"category": 16, "subcategory": "B", "style": "Oatmeal Stout", "og": [1.045, 1.065], "fg": [1.01, 1.018], "abv": [0.042, 0.059], "ibu": [25.0, 40.0], "color": [22.0, 40.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "stout-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13C"}, "C": {"category": 16, "subcategory": "C", "style": "Tropical Stout", "og": [1.056, 1.075], "fg": [1.01, 1.018], "abv": [0.055, 0.08], "ibu": [30.0, 50.0], "color": [30.0, 40.0], "tags": "", "strength": "high-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "stout-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "sweet", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13D (1)"}, "D": {"category": 16, "subcategory": "D", "style": "Foreign Extra Stout", "og": [1.056, 1.075], "fg": [1.01, 1.018], "abv": [0.063, 0.08], "ibu": [50.0, 70.0], "color": [30.0, 40.0], "tags": "", "strength": "high-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "stout-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13D (2)"}}, "17": {"A": {"category": 17, "subcategory": "A", "style": "English Strong Ale", "og": [1.055, 1.08], "fg": [1.015, 1.022], "abv": [0.055, 0.08], "ibu": [30.0, 60.0], "color": [8.0, 22.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "strong-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": 17, "subcategory": "B", "style": "Old Ale", "og": [1.055, 1.088], "fg": [1.015, 1.022], "abv": [0.055, 0.09], "ibu": [30.0, 60.0], "color": [10.0, 22.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "aged", "region_of_origin": "british-isles", "style_family": "strong-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "19A"}, "C": {"category": 17, "subcategory": "C", "style": "Wee Heavy", "og": [1.07, 1.13], "fg": [1.018, 1.04], "abv": [0.065, 0.1], "ibu": [17.0, 35.0], "color": [14.0, 25.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "strong-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "9E"}, "D": {"category": 17, "subcategory": "D", "style": "English Barleywine", "og": [1.08, 1.12], "fg": [1.018, 1.03], "abv": [0.08, 0.12], "ibu": [35.0, 70.0], "color": [8.0, 22.0], "tags": "", "strength": "very-high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "strong-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "19B"}}, "18": {"A": {"category": 18, "subcategory": "A", "style": "Blonde Ale", "og": [1.038, 1.054], "fg": [1.008, 1.013], "abv": [0.038, 0.055], "ibu": [15.0, 28.0], "color": [3.0, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "any-fermentation", "conditioning": "", "region_of_origin": "north-america", "style_family": "pale-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "6B"}, "B": {"category": 18, "subcategory": "B", "style": "American Pale Ale", "og": [1.045, 1.06], "fg": [1.01, 1.015], "abv": [0.045, 0.062], "ibu": [30.0, 50.0], "color": [5.0, 10.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "pale-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "10A"}}, "19": {"A": {"category": 19, "subcategory": "A", "style": "American Amber Ale", "og": [1.045, 1.06], "fg": [1.01, 1.015], "abv": [0.045, 0.062], "ibu": [25.0, 40.0], "color": [10.0, 17.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "amber-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "10B"}, "B": {"category": 19, "subcategory": "B", "style": "California Common", "og": [1.048, 1.054], "fg": [1.011, 1.014], "abv": [0.045, 0.055], "ibu": [30.0, 45.0], "color": [10.0, 14.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "bottom-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "7B"}, "C": {"category": 19, "subcategory": "C", "style": "American Brown Ale", "og": [1.045, 1.06], "fg": [1.01, 1.016], "abv": [0.043, 0.062], "ibu": [20.0, 30.0], "color": [18.0, 35.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "brown-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "10C"}}, "20": {"A": {"category": 20, "subcategory": "A", "style": "American Porter", "og": [1.05, 1.07], "fg": [1.012, 1.018], "abv": [0.048, 0.065], "ibu": [25.0, 50.0], "color": [22.0, 40.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "porter-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "12B"}, "B": {"category": 20, "subcategory": "B", "style": "American Stout", "og": [1.05, 1.075], "fg": [1.01, 1.022], "abv": [0.05, 0.07], "ibu": [35.0, 75.0], "color": [30.0, 40.0], "tags": "", "strength": "high-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "stout-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13E"}, "C": {"category": 20, "subcategory": "C", "style": "Imperial Stout", "og": [1.075, 1.115], "fg": [1.018, 1.03], "abv": [0.08, 0.12], "ibu": [50.0, 90.0], "color": [30.0, 40.0], "tags": "", "strength": "very-high-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "stout-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "bitter", "spice": "", "smoke_roast_wood_fruit": "roasty", "cat_sub_2008": "13F"}}, "21": {"A": {"category": 21, "subcategory": "A", "style": "American IPA", "og": [1.056, 1.07], "fg": [1.01, 1.014], "abv": [0.055, 0.075], "ibu": [40.0, 70.0], "color": [6.0, 14.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "ipa-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "14B"}, "B": {"category": 21, "subcategory": "B", "style": "Specialty IPA: White IPA", "og": [1.056, 1.065], "fg": [1.01, 1.016], "abv": [0.055, 0.07], "ibu": [40.0, 70.0], "color": [5.0, 8.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "ipa-family", "specialty_beer": "specialty-beer", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "spice", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}}, "22": {"A": {"category": 22, "subcategory": "A", "style": "Double IPA", "og": [1.065, 1.085], "fg": [1.008, 1.018], "abv": [0.075, 0.1], "ibu": [60.0, 120.0], "color": [6.0, 14.0], "tags": "", "strength": "very-high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "ipa-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "14C"}, "B": {"category": 22, "subcategory": "B", "style": "American Strong Ale", "og": [1.062, 1.09], "fg": [1.014, 1.024], "abv": [0.063, 0.1], "ibu": [50.0, 100.0], "color": [7.0, 19.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "strong-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "C": {"category": 22, "subcategory": "C", "style": "American Barleywine", "og": [1.08, 1.12], "fg": [1.016, 1.03], "abv": [0.08, 0.12], "ibu": [50.0, 100.0], "color": [10.0, 19.0], "tags": "", "strength": "very-high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "strong-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "19C"}, "D": {"category": 22, "subcategory": "D", "style": "Wheatwine", "og": [1.08, 1.12], "fg": [1.016, 1.03], "abv": [0.08, 0.12], "ibu": [30.0, 60.0], "color": [8.0, 15.0], "tags": "", "strength": "very-high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "strong-ale-family", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}}, "23": {"A": {"category": 23, "subcategory": "A", "style": "Berliner Weisse", "og": [1.028, 1.032], "fg": [1.003, 1.006], "abv": [0.028, 0.038], "ibu": [3.0, 8.0], "color": [2.0, 3.0], "tags": "", "strength": "session-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "17A"}, "B": {"category": 23, "subcategory": "B", "style": "Flanders Red Ale", "og": [1.048, 1.057], "fg": [1.002, 1.012], "abv": [0.046, 0.065], "ibu": [10.0, 25.0], "color": [10.0, 16.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "sour-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "wood", "cat_sub_2008": "17B"}, "C": {"category": 23, "subcategory": "C", "style": "Oud Bruin", "og": [1.04, 1.074], "fg": [1.008, 1.012], "abv": [0.04, 0.08], "ibu": [20.0, 25.0], "color": [15.0, 22.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "sour-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "17C"}, "D": {"category": 23, "subcategory": "D", "style": "Lambic", "og": [1.04, 1.054], "fg": [1.001, 1.01], "abv": [0.05, 0.065], "ibu": [0.0, 10.0], "color": [3.0, 7.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "wild-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "17D"}, "E": {"category": 23, "subcategory": "E", "style": "Gueuze", "og": [1.04, 1.06], "fg": [1.0, 1.006], "abv": [0.05, 0.08], "ibu": [0.0, 10.0], "color": [3.0, 7.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "wild-fermented", "conditioning": "aged", "region_of_origin": "western-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "17E"}, "F": {"category": 23, "subcategory": "F", "style": "Fruit Lambic", "og": [1.04, 1.06], "fg": [1.0, 1.01], "abv": [0.05, 0.07], "ibu": [0.0, 10.0], "color": [3.0, 7.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "wild-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "fruit", "cat_sub_2008": "17F"}}, "24": {"A": {"category": 24, "subcategory": "A", "style": "Witbier", "og": [1.044, 1.052], "fg": [1.008, 1.012], "abv": [0.045, 0.055], "ibu": [10.0, 20.0], "color": [2.0, 4.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "spice", "smoke_roast_wood_fruit": "spice", "cat_sub_2008": "16A"}, "B": {"category": 24, "subcategory": "B", "style": "Belgian Pale Ale", "og": [1.048, 1.054], "fg": [1.01, 1.014], "abv": [0.048, 0.055], "ibu": [20.0, 30.0], "color": [8.0, 14.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "pale-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "16B"}, "C": {"category": 24, "subcategory": "C", "style": "Biere de Garde", "og": [1.06, 1.08], "fg": [1.008, 1.016], "abv": [0.06, 0.085], "ibu": [18.0, 28.0], "color": [6.0, 19.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "any-fermentation", "conditioning": "lagered", "region_of_origin": "western-europe", "style_family": "amber-ale-family", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "16D"}}, "25": {"A": {"category": 25, "subcategory": "A", "style": "Belgian Blond Ale", "og": [1.062, 1.075], "fg": [1.008, 1.018], "abv": [0.06, 0.075], "ibu": [15.0, 30.0], "color": [4.0, 7.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "18A"}, "B": {"category": 25, "subcategory": "B", "style": "Saison  (Standard)", "og": [1.048, 1.065], "fg": [1.002, 1.008], "abv": [0.05, 0.07], "ibu": [20.0, 35.0], "color": [5.0, 14.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "16C"}, "C": {"category": 25, "subcategory": "C", "style": "Belgian Golden Strong Ale", "og": [1.07, 1.095], "fg": [1.005, 1.016], "abv": [0.075, 0.105], "ibu": [22.0, 35.0], "color": [3.0, 6.0], "tags": "", "strength": "very-high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "18D"}}, "26": {"A": {"category": 26, "subcategory": "A", "style": "Belgian Single", "og": [1.044, 1.054], "fg": [1.004, 1.01], "abv": [0.048, 0.06], "ibu": [25.0, 45.0], "color": [3.0, 5.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "", "specialty_beer": "", "era": "craft-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": 26, "subcategory": "B", "style": "Belgian Dubbel", "og": [1.062, 1.075], "fg": [1.008, 1.018], "abv": [0.06, 0.076], "ibu": [15.0, 25.0], "color": [10.0, 17.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "18B"}, "C": {"category": 26, "subcategory": "C", "style": "Belgian Tripel", "og": [1.075, 1.085], "fg": [1.008, 1.014], "abv": [0.075, 0.095], "ibu": [20.0, 40.0], "color": [4.5, 7.0], "tags": "", "strength": "high-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "18C"}, "D": {"category": 26, "subcategory": "D", "style": "Belgian Dark Strong Ale", "og": [1.075, 1.11], "fg": [1.01, 1.024], "abv": [0.08, 0.12], "ibu": [20.0, 35.0], "color": [12.0, 22.0], "tags": "", "strength": "very-high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "western-europe", "style_family": "", "specialty_beer": "", "era": "traditional-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "18E"}}, "27": {"A": {"category": "27", "subcategory": "A", "style": "Historical Beer: Gose", "og": [1.036, 1.056], "fg": [1.006, 1.01], "abv": [0.042, 0.048], "ibu": [5.0, 12.0], "color": [3.0, 4.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "spice", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": "27", "subcategory": "B", "style": "Historical Beer: Kentucky Common", "og": [1.044, 1.055], "fg": [1.01, 1.018], "abv": [0.04, 0.055], "ibu": [15.0, 30.0], "color": [11.0, 20.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "balanced", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "C": {"category": "27", "subcategory": "C", "style": "Historical Beer: Lichtenhainer", "og": [1.032, 1.04], "fg": [1.004, 1.008], "abv": [0.035, 0.047], "ibu": [5.0, 12.0], "color": [3.0, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "smoke", "cat_sub_2008": "New"}, "D": {"category": "27", "subcategory": "D", "style": "Historical Beer: London Brown Ale", "og": [1.033, 1.038], "fg": [1.012, 1.015], "abv": [0.028, 0.036], "ibu": [15.0, 20.0], "color": [22.0, 35.0], "tags": "", "strength": "session-strength", "color_name": "dark-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "british-isles", "style_family": "brown-ale-family", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "sweet", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "15D"}, "E": {"category": "27", "subcategory": "E", "style": "Historical Beer: Pivo Grodziskie", "og": [1.028, 1.032], "fg": [1.006, 1.012], "abv": [0.025, 0.033], "ibu": [20.0, 35.0], "color": [3.0, 6.0], "tags": "", "strength": "session-strength", "color_name": "pale-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "smoke", "cat_sub_2008": "New"}, "F": {"category": "27", "subcategory": "F", "style": "Historical Beer: Pre-Prohibition Lager", "og": [1.044, 1.06], "fg": [1.01, 1.015], "abv": [0.045, 0.06], "ibu": [25.0, 40.0], "color": [3.0, 6.0], "tags": "", "strength": "standard-strength", "color_name": "pale-color", "fermentation": "bottom-fermented", "conditioning": "lagered", "region_of_origin": "north-america", "style_family": "pilsner-family", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "bitter", "sour_hoppy_sweet": "hoppy", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "G": {"category": "27", "subcategory": "G", "style": "Historical Beer: Pre-Prohibition Porter", "og": [1.046, 1.06], "fg": [1.01, 1.016], "abv": [0.045, 0.06], "ibu": [20.0, 30.0], "color": [18.0, 30.0], "tags": "", "strength": "standard-strength", "color_name": "dark-color", "fermentation": "any-fermentation", "conditioning": "", "region_of_origin": "north-america", "style_family": "porter-family", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "malty", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "2C"}, "H": {"category": "27", "subcategory": "H", "style": "Historical Beer: Roggenbier", "og": [1.046, 1.056], "fg": [1.01, 1.014], "abv": [0.045, 0.06], "ibu": [10.0, 20.0], "color": [14.0, 19.0], "tags": "", "strength": "standard-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "wheat-beer-family", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "I": {"category": "27", "subcategory": "I", "style": "Historical Beer: Sahti", "og": [1.076, 1.12], "fg": [1.016, 1.02], "abv": [0.07, 0.11], "ibu": [7.0, 15.0], "color": [4.0, 22.0], "tags": "", "strength": "high-strength", "color_name": "amber-color", "fermentation": "top-fermented", "conditioning": "", "region_of_origin": "central-europe", "style_family": "", "specialty_beer": "", "era": "historical-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "spice", "smoke_roast_wood_fruit": "", "cat_sub_2008": "11B"}}, "28": {"A": {"category": 28, "subcategory": "A", "style": "Brett Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "wild-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "", "specialty_beer": "specialty-beer", "era": "craft-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": 28, "subcategory": "B", "style": "Mixed Fermentation Sour Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "wild-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "", "specialty_beer": "specialty-beer", "era": "craft-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "C": {"category": 28, "subcategory": "C", "style": "Soured Fruit Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "wild-fermented", "conditioning": "", "region_of_origin": "north-america", "style_family": "", "specialty_beer": "specialty-beer", "era": "craft-style", "bitter_balance_malty": "", "sour_hoppy_sweet": "sour", "spice": "", "smoke_roast_wood_fruit": "fruit", "cat_sub_2008": "New"}}, "29": {"A": {"category": 29, "subcategory": "A", "style": "Fruit Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "fruit", "cat_sub_2008": "20A"}, "B": {"category": 29, "subcategory": "B", "style": "Fruit and pice Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "spice", "smoke_roast_wood_fruit": "fruit", "cat_sub_2008": "23 (new)"}, "C": {"category": 29, "subcategory": "C", "style": "Specialty Fruit Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "fruit", "cat_sub_2008": "23 (new)"}}, "30": {"A": {"category": 30, "subcategory": "A", "style": "Spice, Herb, or Vegetable Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "spice", "smoke_roast_wood_fruit": "", "cat_sub_2008": "21A"}, "B": {"category": 30, "subcategory": "B", "style": "Autumn Seasonal Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "spice", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "C": {"category": 30, "subcategory": "C", "style": "Winter Seasonal Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "spice", "smoke_roast_wood_fruit": "", "cat_sub_2008": "21B"}}, "31": {"A": {"category": 31, "subcategory": "A", "style": "Alternative Grain Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}, "B": {"category": 31, "subcategory": "B", "style": "Alternative Sugar Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "New"}}, "32": {"A": {"category": 32, "subcategory": "A", "style": "Classic Style Smoked Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "smoke", "cat_sub_2008": "22B"}, "B": {"category": 32, "subcategory": "B", "style": "Specialty Smoked Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "smoke", "cat_sub_2008": "23 (new)"}}, "33": {"A": {"category": 33, "subcategory": "A", "style": "Wood-Aged Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "wood", "cat_sub_2008": "22C"}, "B": {"category": 33, "subcategory": "B", "style": "Specialty Wood-Aged Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "wood", "cat_sub_2008": "22C/23 (new)"}}, "34": {"A": {"category": 34, "subcategory": "A", "style": "Clone Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "23 (new)"}, "B": {"category": 34, "subcategory": "B", "style": "Mixed-Style Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "23 (new)"}, "C": {"category": 34, "subcategory": "C", "style": "Experimental Beer", "og": [], "fg": [], "abv": [], "ibu": [], "color": [], "tags": "", "strength": "", "color_name": "", "fermentation": "", "conditioning": "", "region_of_origin": "", "style_family": "", "specialty_beer": "specialty-beer", "era": "", "bitter_balance_malty": "", "sour_hoppy_sweet": "", "spice": "", "smoke_roast_wood_fruit": "", "cat_sub_2008": "23"}}}
+{
+  "1": {
+    "A": {
+      "category": 1,
+      "subcategory": "A",
+      "style": "Lite American Lager",
+      "og": [
+        1.028,
+        1.04
+      ],
+      "fg": [
+        0.998,
+        1.008
+      ],
+      "abv": [
+        0.028,
+        0.042
+      ],
+      "ibu": [
+        8.0,
+        12.0
+      ],
+      "color": [
+        2.0,
+        3.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "north-america",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "1A"
+    },
+    "B": {
+      "category": 1,
+      "subcategory": "B",
+      "style": "American Lager",
+      "og": [
+        1.04,
+        1.05
+      ],
+      "fg": [
+        1.004,
+        1.01
+      ],
+      "abv": [
+        0.042,
+        0.053
+      ],
+      "ibu": [
+        8.0,
+        18.0
+      ],
+      "color": [
+        2.0,
+        4.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "north-america",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "1B + 1C (1)"
+    },
+    "C": {
+      "category": 1,
+      "subcategory": "C",
+      "style": "Cream Ale",
+      "og": [
+        1.042,
+        1.055
+      ],
+      "fg": [
+        1.006,
+        1.012
+      ],
+      "abv": [
+        0.042,
+        0.056
+      ],
+      "ibu": [
+        15.0,
+        20.0
+      ],
+      "color": [
+        2.5,
+        5.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "any-fermentation",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "pale-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "6A"
+    },
+    "D": {
+      "category": 1,
+      "subcategory": "D",
+      "style": "American Wheat Beer",
+      "og": [
+        1.04,
+        1.055
+      ],
+      "fg": [
+        1.008,
+        1.013
+      ],
+      "abv": [
+        0.04,
+        0.055
+      ],
+      "ibu": [
+        15.0,
+        30.0
+      ],
+      "color": [
+        3.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "any-fermentation",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "6D"
+    }
+  },
+  "2": {
+    "A": {
+      "category": 2,
+      "subcategory": "A",
+      "style": "International Pale Lager",
+      "og": [
+        1.042,
+        1.05
+      ],
+      "fg": [
+        1.008,
+        1.012
+      ],
+      "abv": [
+        0.046,
+        0.06
+      ],
+      "ibu": [
+        18.0,
+        25.0
+      ],
+      "color": [
+        2.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "1C (2)"
+    },
+    "B": {
+      "category": 2,
+      "subcategory": "B",
+      "style": "International Amber Lager",
+      "og": [
+        1.042,
+        1.055
+      ],
+      "fg": [
+        1.008,
+        1.014
+      ],
+      "abv": [
+        0.046,
+        0.06
+      ],
+      "ibu": [
+        8.0,
+        25.0
+      ],
+      "color": [
+        7.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "",
+      "style_family": "amber-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "C": {
+      "category": 2,
+      "subcategory": "C",
+      "style": "International Dark Lager",
+      "og": [
+        1.044,
+        1.056
+      ],
+      "fg": [
+        1.008,
+        1.012
+      ],
+      "abv": [
+        0.042,
+        0.06
+      ],
+      "ibu": [
+        8.0,
+        20.0
+      ],
+      "color": [
+        14.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "",
+      "style_family": "dark-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "4A"
+    }
+  },
+  "3": {
+    "A": {
+      "category": 3,
+      "subcategory": "A",
+      "style": "Czech Pale Lager",
+      "og": [
+        1.028,
+        1.044
+      ],
+      "fg": [
+        1.008,
+        1.014
+      ],
+      "abv": [
+        0.03,
+        0.041
+      ],
+      "ibu": [
+        20.0,
+        35.0
+      ],
+      "color": [
+        3.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": 3,
+      "subcategory": "B",
+      "style": "Czech Premium pale lager",
+      "og": [
+        1.044,
+        1.06
+      ],
+      "fg": [
+        1.013,
+        1.017
+      ],
+      "abv": [
+        0.042,
+        0.058
+      ],
+      "ibu": [
+        30.0,
+        45.0
+      ],
+      "color": [
+        3.5,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "2B"
+    },
+    "C": {
+      "category": 3,
+      "subcategory": "C",
+      "style": "Czech Amber Lager",
+      "og": [
+        1.044,
+        1.06
+      ],
+      "fg": [
+        1.013,
+        1.017
+      ],
+      "abv": [
+        0.042,
+        0.058
+      ],
+      "ibu": [
+        20.0,
+        35.0
+      ],
+      "color": [
+        10.0,
+        16.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "amber-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "D": {
+      "category": 3,
+      "subcategory": "D",
+      "style": "Czech Dark Lager",
+      "og": [
+        1.044,
+        1.06
+      ],
+      "fg": [
+        1.013,
+        1.017
+      ],
+      "abv": [
+        0.044,
+        0.058
+      ],
+      "ibu": [
+        18.0,
+        34.0
+      ],
+      "color": [
+        14.0,
+        35.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "dark-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    }
+  },
+  "4": {
+    "A": {
+      "category": 4,
+      "subcategory": "A",
+      "style": "Munich Helles",
+      "og": [
+        1.044,
+        1.048
+      ],
+      "fg": [
+        1.006,
+        1.012
+      ],
+      "abv": [
+        0.047,
+        0.054
+      ],
+      "ibu": [
+        16.0,
+        22.0
+      ],
+      "color": [
+        3.0,
+        5.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "1D"
+    },
+    "B": {
+      "category": 4,
+      "subcategory": "B",
+      "style": "Festbier",
+      "og": [
+        1.054,
+        1.057
+      ],
+      "fg": [
+        1.01,
+        1.012
+      ],
+      "abv": [
+        0.058,
+        0.063
+      ],
+      "ibu": [
+        18.0,
+        25.0
+      ],
+      "color": [
+        4.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "C": {
+      "category": 4,
+      "subcategory": "C",
+      "style": "Helles Bock",
+      "og": [
+        1.064,
+        1.072
+      ],
+      "fg": [
+        1.011,
+        1.018
+      ],
+      "abv": [
+        0.063,
+        0.074
+      ],
+      "ibu": [
+        23.0,
+        35.0
+      ],
+      "color": [
+        6.0,
+        11.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "bock-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "5A"
+    }
+  },
+  "5": {
+    "A": {
+      "category": 5,
+      "subcategory": "A",
+      "style": "German Leichtbier",
+      "og": [
+        1.026,
+        1.034
+      ],
+      "fg": [
+        1.006,
+        1.01
+      ],
+      "abv": [
+        0.024,
+        0.036
+      ],
+      "ibu": [
+        15.0,
+        28.0
+      ],
+      "color": [
+        2.0,
+        5.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": 5,
+      "subcategory": "B",
+      "style": "Kolsch",
+      "og": [
+        1.044,
+        1.05
+      ],
+      "fg": [
+        1.007,
+        1.011
+      ],
+      "abv": [
+        0.044,
+        0.052
+      ],
+      "ibu": [
+        18.0,
+        30.0
+      ],
+      "color": [
+        3.5,
+        5.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "6C"
+    },
+    "C": {
+      "category": 5,
+      "subcategory": "C",
+      "style": "German Exportbier",
+      "og": [
+        1.048,
+        1.056
+      ],
+      "fg": [
+        1.01,
+        1.015
+      ],
+      "abv": [
+        0.048,
+        0.06
+      ],
+      "ibu": [
+        20.0,
+        30.0
+      ],
+      "color": [
+        4.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "1E"
+    },
+    "D": {
+      "category": 5,
+      "subcategory": "D",
+      "style": "German Pils",
+      "og": [
+        1.044,
+        1.05
+      ],
+      "fg": [
+        1.008,
+        1.013
+      ],
+      "abv": [
+        0.044,
+        0.052
+      ],
+      "ibu": [
+        22.0,
+        40.0
+      ],
+      "color": [
+        2.0,
+        5.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "2A"
+    }
+  },
+  "6": {
+    "A": {
+      "category": 6,
+      "subcategory": "A",
+      "style": "Marzen",
+      "og": [
+        1.054,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.058,
+        0.063
+      ],
+      "ibu": [
+        18.0,
+        24.0
+      ],
+      "color": [
+        8.0,
+        17.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "amber-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "3B"
+    },
+    "B": {
+      "category": 6,
+      "subcategory": "B",
+      "style": "Dunkels Bock",
+      "og": [
+        1.064,
+        1.072
+      ],
+      "fg": [
+        1.013,
+        1.019
+      ],
+      "abv": [
+        0.063,
+        0.072
+      ],
+      "ibu": [
+        20.0,
+        27.0
+      ],
+      "color": [
+        14.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "bock-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "5B"
+    }
+  },
+  "7": {
+    "A": {
+      "category": 7,
+      "subcategory": "A",
+      "style": "Vienna Lager",
+      "og": [
+        1.048,
+        1.055
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.047,
+        0.055
+      ],
+      "ibu": [
+        18.0,
+        30.0
+      ],
+      "color": [
+        9.0,
+        15.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "amber-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "3A"
+    },
+    "B": {
+      "category": 7,
+      "subcategory": "B",
+      "style": "Altbier",
+      "og": [
+        1.044,
+        1.052
+      ],
+      "fg": [
+        1.008,
+        1.014
+      ],
+      "abv": [
+        0.043,
+        0.055
+      ],
+      "ibu": [
+        25.0,
+        50.0
+      ],
+      "color": [
+        11.0,
+        17.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "7C"
+    },
+    "C1": {
+      "category": 7,
+      "subcategory": "C1",
+      "style": "Kellerbier: Munich Kellerbier",
+      "og": [
+        1.045,
+        1.051
+      ],
+      "fg": [
+        1.008,
+        1.012
+      ],
+      "abv": [
+        0.047,
+        0.054
+      ],
+      "ibu": [
+        20.0,
+        35.0
+      ],
+      "color": [
+        3.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "pale-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": ""
+    },
+    "C2": {
+      "category": 7,
+      "subcategory": "C2",
+      "style": "Kellerbier: Franconian Kellerbier",
+      "og": [
+        1.048,
+        1.054
+      ],
+      "fg": [
+        1.012,
+        1.016
+      ],
+      "abv": [
+        0.048,
+        0.054
+      ],
+      "ibu": [
+        25.0,
+        40.0
+      ],
+      "color": [
+        7.0,
+        17.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "amber-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": ""
+    }
+  },
+  "8": {
+    "A": {
+      "category": 8,
+      "subcategory": "A",
+      "style": "Munich Dunkel",
+      "og": [
+        1.048,
+        1.056
+      ],
+      "fg": [
+        1.01,
+        1.016
+      ],
+      "abv": [
+        0.045,
+        0.056
+      ],
+      "ibu": [
+        18.0,
+        28.0
+      ],
+      "color": [
+        14.0,
+        28.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "dark-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "4B"
+    },
+    "B": {
+      "category": 8,
+      "subcategory": "B",
+      "style": "Schwarzbier",
+      "og": [
+        1.046,
+        1.052
+      ],
+      "fg": [
+        1.01,
+        1.016
+      ],
+      "abv": [
+        0.044,
+        0.054
+      ],
+      "ibu": [
+        20.0,
+        30.0
+      ],
+      "color": [
+        17.0,
+        30.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "dark-lager-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "4C"
+    }
+  },
+  "9": {
+    "A1": {
+      "category": 9,
+      "subcategory": "A1",
+      "style": "Doppelbock  (pale)",
+      "og": [
+        1.072,
+        1.112
+      ],
+      "fg": [
+        1.016,
+        1.024
+      ],
+      "abv": [
+        0.07,
+        0.1
+      ],
+      "ibu": [
+        16.0,
+        26.0
+      ],
+      "color": [
+        6.0,
+        25.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "bock-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "5C"
+    },
+    "A2": {
+      "category": 9,
+      "subcategory": "A2",
+      "style": "Doppelbock  (Amber)",
+      "og": [
+        1.072,
+        1.112
+      ],
+      "fg": [
+        1.016,
+        1.024
+      ],
+      "abv": [
+        0.07,
+        0.1
+      ],
+      "ibu": [
+        16.0,
+        26.0
+      ],
+      "color": [
+        6.0,
+        25.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "bock-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "5C"
+    },
+    "B": {
+      "category": 9,
+      "subcategory": "B",
+      "style": "Eisbock",
+      "og": [
+        1.078,
+        1.12
+      ],
+      "fg": [
+        1.02,
+        1.035
+      ],
+      "abv": [
+        0.09,
+        0.14
+      ],
+      "ibu": [
+        25.0,
+        35.0
+      ],
+      "color": [
+        18.0,
+        30.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "central-europe",
+      "style_family": "bock-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "5D"
+    },
+    "C": {
+      "category": 9,
+      "subcategory": "C",
+      "style": "Baltic Porter",
+      "og": [
+        1.06,
+        1.09
+      ],
+      "fg": [
+        1.016,
+        1.024
+      ],
+      "abv": [
+        0.065,
+        0.095
+      ],
+      "ibu": [
+        20.0,
+        40.0
+      ],
+      "color": [
+        17.0,
+        30.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "dark-color",
+      "fermentation": "any-fermentation",
+      "conditioning": "lagered",
+      "region_of_origin": "eastern-europe",
+      "style_family": "porter-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "12C"
+    }
+  },
+  "10": {
+    "A": {
+      "category": 10,
+      "subcategory": "A",
+      "style": "Weizen/Weissbier",
+      "og": [
+        1.044,
+        1.052
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.043,
+        0.056
+      ],
+      "ibu": [
+        8.0,
+        15.0
+      ],
+      "color": [
+        2.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "15A"
+    },
+    "B": {
+      "category": 10,
+      "subcategory": "B",
+      "style": "Dunkels Weissbier",
+      "og": [
+        1.044,
+        1.056
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.043,
+        0.056
+      ],
+      "ibu": [
+        10.0,
+        18.0
+      ],
+      "color": [
+        14.0,
+        23.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "15B"
+    },
+    "C": {
+      "category": 10,
+      "subcategory": "C",
+      "style": "Weizenbock",
+      "og": [
+        1.064,
+        1.09
+      ],
+      "fg": [
+        1.015,
+        1.022
+      ],
+      "abv": [
+        0.065,
+        0.09
+      ],
+      "ibu": [
+        15.0,
+        30.0
+      ],
+      "color": [
+        6.0,
+        25.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "15C"
+    }
+  },
+  "11": {
+    "A": {
+      "category": 11,
+      "subcategory": "A",
+      "style": "Ordinary Bitter",
+      "og": [
+        1.03,
+        1.039
+      ],
+      "fg": [
+        1.007,
+        1.011
+      ],
+      "abv": [
+        0.032,
+        0.038
+      ],
+      "ibu": [
+        25.0,
+        35.0
+      ],
+      "color": [
+        8.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "8A"
+    },
+    "B": {
+      "category": 11,
+      "subcategory": "B",
+      "style": "Best Bitter",
+      "og": [
+        1.04,
+        1.048
+      ],
+      "fg": [
+        1.008,
+        1.012
+      ],
+      "abv": [
+        0.038,
+        0.046
+      ],
+      "ibu": [
+        25.0,
+        40.0
+      ],
+      "color": [
+        8.0,
+        16.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "8B"
+    },
+    "C": {
+      "category": 11,
+      "subcategory": "C",
+      "style": "Strong Bitter",
+      "og": [
+        1.048,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.016
+      ],
+      "abv": [
+        0.046,
+        0.062
+      ],
+      "ibu": [
+        30.0,
+        50.0
+      ],
+      "color": [
+        8.0,
+        18.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "8C"
+    }
+  },
+  "12": {
+    "A": {
+      "category": 12,
+      "subcategory": "A",
+      "style": "English Golden Ale",
+      "og": [
+        1.038,
+        1.053
+      ],
+      "fg": [
+        1.006,
+        1.012
+      ],
+      "abv": [
+        0.038,
+        0.05
+      ],
+      "ibu": [
+        20.0,
+        45.0
+      ],
+      "color": [
+        2.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "pale-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": 12,
+      "subcategory": "B",
+      "style": "Australian Sparkling Ale",
+      "og": [
+        1.038,
+        1.05
+      ],
+      "fg": [
+        1.004,
+        1.006
+      ],
+      "abv": [
+        0.045,
+        0.06
+      ],
+      "ibu": [
+        20.0,
+        35.0
+      ],
+      "color": [
+        4.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "pacific",
+      "style_family": "pale-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "C": {
+      "category": 12,
+      "subcategory": "C",
+      "style": "English IPA",
+      "og": [
+        1.05,
+        1.075
+      ],
+      "fg": [
+        1.01,
+        1.018
+      ],
+      "abv": [
+        0.05,
+        0.075
+      ],
+      "ibu": [
+        40.0,
+        60.0
+      ],
+      "color": [
+        6.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "ipa-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "14A"
+    }
+  },
+  "13": {
+    "A": {
+      "category": 13,
+      "subcategory": "A",
+      "style": "Dark Mild",
+      "og": [
+        1.03,
+        1.038
+      ],
+      "fg": [
+        1.008,
+        1.013
+      ],
+      "abv": [
+        0.03,
+        0.038
+      ],
+      "ibu": [
+        10.0,
+        25.0
+      ],
+      "color": [
+        12.0,
+        25.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "brown-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "11A"
+    },
+    "B": {
+      "category": 13,
+      "subcategory": "B",
+      "style": "English Brown Ale",
+      "og": [
+        1.04,
+        1.052
+      ],
+      "fg": [
+        1.008,
+        1.013
+      ],
+      "abv": [
+        0.042,
+        0.054
+      ],
+      "ibu": [
+        20.0,
+        30.0
+      ],
+      "color": [
+        12.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "brown-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "11C"
+    },
+    "C": {
+      "category": 13,
+      "subcategory": "C",
+      "style": "EnglishBrown Porter",
+      "og": [
+        1.04,
+        1.052
+      ],
+      "fg": [
+        1.008,
+        1.014
+      ],
+      "abv": [
+        0.04,
+        0.054
+      ],
+      "ibu": [
+        18.0,
+        35.0
+      ],
+      "color": [
+        20.0,
+        30.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "porter-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "12A"
+    }
+  },
+  "14": {
+    "A": {
+      "category": 14,
+      "subcategory": "A",
+      "style": "Scottish Light",
+      "og": [
+        1.03,
+        1.035
+      ],
+      "fg": [
+        1.01,
+        1.013
+      ],
+      "abv": [
+        0.025,
+        0.032
+      ],
+      "ibu": [
+        10.0,
+        20.0
+      ],
+      "color": [
+        17.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "9A"
+    },
+    "B": {
+      "category": 14,
+      "subcategory": "B",
+      "style": "Scottish Heavy",
+      "og": [
+        1.035,
+        1.04
+      ],
+      "fg": [
+        1.01,
+        1.015
+      ],
+      "abv": [
+        0.032,
+        0.039
+      ],
+      "ibu": [
+        10.0,
+        20.0
+      ],
+      "color": [
+        13.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "9B"
+    },
+    "C": {
+      "category": 14,
+      "subcategory": "C",
+      "style": "Scottish Export",
+      "og": [
+        1.04,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.016
+      ],
+      "abv": [
+        0.039,
+        0.06
+      ],
+      "ibu": [
+        15.0,
+        30.0
+      ],
+      "color": [
+        13.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "9C"
+    }
+  },
+  "15": {
+    "A": {
+      "category": 15,
+      "subcategory": "A",
+      "style": "Irish Red Ale",
+      "og": [
+        1.036,
+        1.046
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.038,
+        0.05
+      ],
+      "ibu": [
+        18.0,
+        28.0
+      ],
+      "color": [
+        9.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "9D"
+    },
+    "B": {
+      "category": 15,
+      "subcategory": "B",
+      "style": "Irish Stout",
+      "og": [
+        1.036,
+        1.044
+      ],
+      "fg": [
+        1.007,
+        1.011
+      ],
+      "abv": [
+        0.04,
+        0.045
+      ],
+      "ibu": [
+        25.0,
+        45.0
+      ],
+      "color": [
+        25.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13A (1)"
+    },
+    "C": {
+      "category": 15,
+      "subcategory": "C",
+      "style": "Irish Extra Stout",
+      "og": [
+        1.052,
+        1.062
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.055,
+        0.065
+      ],
+      "ibu": [
+        35.0,
+        50.0
+      ],
+      "color": [
+        25.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13A (2)"
+    }
+  },
+  "16": {
+    "A": {
+      "category": 16,
+      "subcategory": "A",
+      "style": "Sweet Stout",
+      "og": [
+        1.044,
+        1.06
+      ],
+      "fg": [
+        1.012,
+        1.024
+      ],
+      "abv": [
+        0.04,
+        0.06
+      ],
+      "ibu": [
+        20.0,
+        40.0
+      ],
+      "color": [
+        30.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "sweet",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13B"
+    },
+    "B": {
+      "category": 16,
+      "subcategory": "B",
+      "style": "Oatmeal Stout",
+      "og": [
+        1.045,
+        1.065
+      ],
+      "fg": [
+        1.01,
+        1.018
+      ],
+      "abv": [
+        0.042,
+        0.059
+      ],
+      "ibu": [
+        25.0,
+        40.0
+      ],
+      "color": [
+        22.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13C"
+    },
+    "C": {
+      "category": 16,
+      "subcategory": "C",
+      "style": "Tropical Stout",
+      "og": [
+        1.056,
+        1.075
+      ],
+      "fg": [
+        1.01,
+        1.018
+      ],
+      "abv": [
+        0.055,
+        0.08
+      ],
+      "ibu": [
+        30.0,
+        50.0
+      ],
+      "color": [
+        30.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "sweet",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13D (1)"
+    },
+    "D": {
+      "category": 16,
+      "subcategory": "D",
+      "style": "Foreign Extra Stout",
+      "og": [
+        1.056,
+        1.075
+      ],
+      "fg": [
+        1.01,
+        1.018
+      ],
+      "abv": [
+        0.063,
+        0.08
+      ],
+      "ibu": [
+        50.0,
+        70.0
+      ],
+      "color": [
+        30.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13D (2)"
+    }
+  },
+  "17": {
+    "A": {
+      "category": 17,
+      "subcategory": "A",
+      "style": "English Strong Ale",
+      "og": [
+        1.055,
+        1.08
+      ],
+      "fg": [
+        1.015,
+        1.022
+      ],
+      "abv": [
+        0.055,
+        0.08
+      ],
+      "ibu": [
+        30.0,
+        60.0
+      ],
+      "color": [
+        8.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "strong-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": 17,
+      "subcategory": "B",
+      "style": "Old Ale",
+      "og": [
+        1.055,
+        1.088
+      ],
+      "fg": [
+        1.015,
+        1.022
+      ],
+      "abv": [
+        0.055,
+        0.09
+      ],
+      "ibu": [
+        30.0,
+        60.0
+      ],
+      "color": [
+        10.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "aged",
+      "region_of_origin": "british-isles",
+      "style_family": "strong-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "19A"
+    },
+    "C": {
+      "category": 17,
+      "subcategory": "C",
+      "style": "Wee Heavy",
+      "og": [
+        1.07,
+        1.13
+      ],
+      "fg": [
+        1.018,
+        1.04
+      ],
+      "abv": [
+        0.065,
+        0.1
+      ],
+      "ibu": [
+        17.0,
+        35.0
+      ],
+      "color": [
+        14.0,
+        25.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "strong-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "9E"
+    },
+    "D": {
+      "category": 17,
+      "subcategory": "D",
+      "style": "English Barleywine",
+      "og": [
+        1.08,
+        1.12
+      ],
+      "fg": [
+        1.018,
+        1.03
+      ],
+      "abv": [
+        0.08,
+        0.12
+      ],
+      "ibu": [
+        35.0,
+        70.0
+      ],
+      "color": [
+        8.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "strong-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "19B"
+    }
+  },
+  "18": {
+    "A": {
+      "category": 18,
+      "subcategory": "A",
+      "style": "Blonde Ale",
+      "og": [
+        1.038,
+        1.054
+      ],
+      "fg": [
+        1.008,
+        1.013
+      ],
+      "abv": [
+        0.038,
+        0.055
+      ],
+      "ibu": [
+        15.0,
+        28.0
+      ],
+      "color": [
+        3.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "any-fermentation",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "pale-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "6B"
+    },
+    "B": {
+      "category": 18,
+      "subcategory": "B",
+      "style": "American Pale Ale",
+      "og": [
+        1.045,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.015
+      ],
+      "abv": [
+        0.045,
+        0.062
+      ],
+      "ibu": [
+        30.0,
+        50.0
+      ],
+      "color": [
+        5.0,
+        10.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "pale-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "10A"
+    }
+  },
+  "19": {
+    "A": {
+      "category": 19,
+      "subcategory": "A",
+      "style": "American Amber Ale",
+      "og": [
+        1.045,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.015
+      ],
+      "abv": [
+        0.045,
+        0.062
+      ],
+      "ibu": [
+        25.0,
+        40.0
+      ],
+      "color": [
+        10.0,
+        17.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "10B"
+    },
+    "B": {
+      "category": 19,
+      "subcategory": "B",
+      "style": "California Common",
+      "og": [
+        1.048,
+        1.054
+      ],
+      "fg": [
+        1.011,
+        1.014
+      ],
+      "abv": [
+        0.045,
+        0.055
+      ],
+      "ibu": [
+        30.0,
+        45.0
+      ],
+      "color": [
+        10.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "7B"
+    },
+    "C": {
+      "category": 19,
+      "subcategory": "C",
+      "style": "American Brown Ale",
+      "og": [
+        1.045,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.016
+      ],
+      "abv": [
+        0.043,
+        0.062
+      ],
+      "ibu": [
+        20.0,
+        30.0
+      ],
+      "color": [
+        18.0,
+        35.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "brown-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "10C"
+    }
+  },
+  "20": {
+    "A": {
+      "category": 20,
+      "subcategory": "A",
+      "style": "American Porter",
+      "og": [
+        1.05,
+        1.07
+      ],
+      "fg": [
+        1.012,
+        1.018
+      ],
+      "abv": [
+        0.048,
+        0.065
+      ],
+      "ibu": [
+        25.0,
+        50.0
+      ],
+      "color": [
+        22.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "porter-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "12B"
+    },
+    "B": {
+      "category": 20,
+      "subcategory": "B",
+      "style": "American Stout",
+      "og": [
+        1.05,
+        1.075
+      ],
+      "fg": [
+        1.01,
+        1.022
+      ],
+      "abv": [
+        0.05,
+        0.07
+      ],
+      "ibu": [
+        35.0,
+        75.0
+      ],
+      "color": [
+        30.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13E"
+    },
+    "C": {
+      "category": 20,
+      "subcategory": "C",
+      "style": "Imperial Stout",
+      "og": [
+        1.075,
+        1.115
+      ],
+      "fg": [
+        1.018,
+        1.03
+      ],
+      "abv": [
+        0.08,
+        0.12
+      ],
+      "ibu": [
+        50.0,
+        90.0
+      ],
+      "color": [
+        30.0,
+        40.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "stout-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "bitter",
+      "spice": "",
+      "smoke_roast_wood_fruit": "roasty",
+      "cat_sub_2008": "13F"
+    }
+  },
+  "21": {
+    "A": {
+      "category": 21,
+      "subcategory": "A",
+      "style": "American IPA",
+      "og": [
+        1.056,
+        1.07
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.055,
+        0.075
+      ],
+      "ibu": [
+        40.0,
+        70.0
+      ],
+      "color": [
+        6.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "ipa-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "14B"
+    },
+    "B": {
+      "category": 21,
+      "subcategory": "B",
+      "style": "Specialty IPA: White IPA",
+      "og": [
+        1.056,
+        1.065
+      ],
+      "fg": [
+        1.01,
+        1.016
+      ],
+      "abv": [
+        0.055,
+        0.07
+      ],
+      "ibu": [
+        40.0,
+        70.0
+      ],
+      "color": [
+        5.0,
+        8.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "ipa-family",
+      "specialty_beer": "specialty-beer",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    }
+  },
+  "22": {
+    "A": {
+      "category": 22,
+      "subcategory": "A",
+      "style": "Double IPA",
+      "og": [
+        1.065,
+        1.085
+      ],
+      "fg": [
+        1.008,
+        1.018
+      ],
+      "abv": [
+        0.075,
+        0.1
+      ],
+      "ibu": [
+        60.0,
+        120.0
+      ],
+      "color": [
+        6.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "ipa-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "14C"
+    },
+    "B": {
+      "category": 22,
+      "subcategory": "B",
+      "style": "American Strong Ale",
+      "og": [
+        1.062,
+        1.09
+      ],
+      "fg": [
+        1.014,
+        1.024
+      ],
+      "abv": [
+        0.063,
+        0.1
+      ],
+      "ibu": [
+        50.0,
+        100.0
+      ],
+      "color": [
+        7.0,
+        19.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "strong-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "C": {
+      "category": 22,
+      "subcategory": "C",
+      "style": "American Barleywine",
+      "og": [
+        1.08,
+        1.12
+      ],
+      "fg": [
+        1.016,
+        1.03
+      ],
+      "abv": [
+        0.08,
+        0.12
+      ],
+      "ibu": [
+        50.0,
+        100.0
+      ],
+      "color": [
+        10.0,
+        19.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "strong-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "19C"
+    },
+    "D": {
+      "category": 22,
+      "subcategory": "D",
+      "style": "Wheatwine",
+      "og": [
+        1.08,
+        1.12
+      ],
+      "fg": [
+        1.016,
+        1.03
+      ],
+      "abv": [
+        0.08,
+        0.12
+      ],
+      "ibu": [
+        30.0,
+        60.0
+      ],
+      "color": [
+        8.0,
+        15.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "strong-ale-family",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    }
+  },
+  "23": {
+    "A": {
+      "category": 23,
+      "subcategory": "A",
+      "style": "Berliner Weisse",
+      "og": [
+        1.028,
+        1.032
+      ],
+      "fg": [
+        1.003,
+        1.006
+      ],
+      "abv": [
+        0.028,
+        0.038
+      ],
+      "ibu": [
+        3.0,
+        8.0
+      ],
+      "color": [
+        2.0,
+        3.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "17A"
+    },
+    "B": {
+      "category": 23,
+      "subcategory": "B",
+      "style": "Flanders Red Ale",
+      "og": [
+        1.048,
+        1.057
+      ],
+      "fg": [
+        1.002,
+        1.012
+      ],
+      "abv": [
+        0.046,
+        0.065
+      ],
+      "ibu": [
+        10.0,
+        25.0
+      ],
+      "color": [
+        10.0,
+        16.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "sour-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "wood",
+      "cat_sub_2008": "17B"
+    },
+    "C": {
+      "category": 23,
+      "subcategory": "C",
+      "style": "Oud Bruin",
+      "og": [
+        1.04,
+        1.074
+      ],
+      "fg": [
+        1.008,
+        1.012
+      ],
+      "abv": [
+        0.04,
+        0.08
+      ],
+      "ibu": [
+        20.0,
+        25.0
+      ],
+      "color": [
+        15.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "sour-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "17C"
+    },
+    "D": {
+      "category": 23,
+      "subcategory": "D",
+      "style": "Lambic",
+      "og": [
+        1.04,
+        1.054
+      ],
+      "fg": [
+        1.001,
+        1.01
+      ],
+      "abv": [
+        0.05,
+        0.065
+      ],
+      "ibu": [
+        0.0,
+        10.0
+      ],
+      "color": [
+        3.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "wild-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "17D"
+    },
+    "E": {
+      "category": 23,
+      "subcategory": "E",
+      "style": "Gueuze",
+      "og": [
+        1.04,
+        1.06
+      ],
+      "fg": [
+        1.0,
+        1.006
+      ],
+      "abv": [
+        0.05,
+        0.08
+      ],
+      "ibu": [
+        0.0,
+        10.0
+      ],
+      "color": [
+        3.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "wild-fermented",
+      "conditioning": "aged",
+      "region_of_origin": "western-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "17E"
+    },
+    "F": {
+      "category": 23,
+      "subcategory": "F",
+      "style": "Fruit Lambic",
+      "og": [
+        1.04,
+        1.06
+      ],
+      "fg": [
+        1.0,
+        1.01
+      ],
+      "abv": [
+        0.05,
+        0.07
+      ],
+      "ibu": [
+        0.0,
+        10.0
+      ],
+      "color": [
+        3.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "wild-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "fruit",
+      "cat_sub_2008": "17F"
+    }
+  },
+  "24": {
+    "A": {
+      "category": 24,
+      "subcategory": "A",
+      "style": "Witbier",
+      "og": [
+        1.044,
+        1.052
+      ],
+      "fg": [
+        1.008,
+        1.012
+      ],
+      "abv": [
+        0.045,
+        0.055
+      ],
+      "ibu": [
+        10.0,
+        20.0
+      ],
+      "color": [
+        2.0,
+        4.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "spice",
+      "cat_sub_2008": "16A"
+    },
+    "B": {
+      "category": 24,
+      "subcategory": "B",
+      "style": "Belgian Pale Ale",
+      "og": [
+        1.048,
+        1.054
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.048,
+        0.055
+      ],
+      "ibu": [
+        20.0,
+        30.0
+      ],
+      "color": [
+        8.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "pale-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "16B"
+    },
+    "C": {
+      "category": 24,
+      "subcategory": "C",
+      "style": "Biere de Garde",
+      "og": [
+        1.06,
+        1.08
+      ],
+      "fg": [
+        1.008,
+        1.016
+      ],
+      "abv": [
+        0.06,
+        0.085
+      ],
+      "ibu": [
+        18.0,
+        28.0
+      ],
+      "color": [
+        6.0,
+        19.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "any-fermentation",
+      "conditioning": "lagered",
+      "region_of_origin": "western-europe",
+      "style_family": "amber-ale-family",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "16D"
+    }
+  },
+  "25": {
+    "A": {
+      "category": 25,
+      "subcategory": "A",
+      "style": "Belgian Blond Ale",
+      "og": [
+        1.062,
+        1.075
+      ],
+      "fg": [
+        1.008,
+        1.018
+      ],
+      "abv": [
+        0.06,
+        0.075
+      ],
+      "ibu": [
+        15.0,
+        30.0
+      ],
+      "color": [
+        4.0,
+        7.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "18A"
+    },
+    "B": {
+      "category": 25,
+      "subcategory": "B",
+      "style": "Saison  (Standard)",
+      "og": [
+        1.048,
+        1.065
+      ],
+      "fg": [
+        1.002,
+        1.008
+      ],
+      "abv": [
+        0.05,
+        0.07
+      ],
+      "ibu": [
+        20.0,
+        35.0
+      ],
+      "color": [
+        5.0,
+        14.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "16C"
+    },
+    "C": {
+      "category": 25,
+      "subcategory": "C",
+      "style": "Belgian Golden Strong Ale",
+      "og": [
+        1.07,
+        1.095
+      ],
+      "fg": [
+        1.005,
+        1.016
+      ],
+      "abv": [
+        0.075,
+        0.105
+      ],
+      "ibu": [
+        22.0,
+        35.0
+      ],
+      "color": [
+        3.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "18D"
+    }
+  },
+  "26": {
+    "A": {
+      "category": 26,
+      "subcategory": "A",
+      "style": "Belgian Single",
+      "og": [
+        1.044,
+        1.054
+      ],
+      "fg": [
+        1.004,
+        1.01
+      ],
+      "abv": [
+        0.048,
+        0.06
+      ],
+      "ibu": [
+        25.0,
+        45.0
+      ],
+      "color": [
+        3.0,
+        5.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "craft-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": 26,
+      "subcategory": "B",
+      "style": "Belgian Dubbel",
+      "og": [
+        1.062,
+        1.075
+      ],
+      "fg": [
+        1.008,
+        1.018
+      ],
+      "abv": [
+        0.06,
+        0.076
+      ],
+      "ibu": [
+        15.0,
+        25.0
+      ],
+      "color": [
+        10.0,
+        17.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "18B"
+    },
+    "C": {
+      "category": 26,
+      "subcategory": "C",
+      "style": "Belgian Tripel",
+      "og": [
+        1.075,
+        1.085
+      ],
+      "fg": [
+        1.008,
+        1.014
+      ],
+      "abv": [
+        0.075,
+        0.095
+      ],
+      "ibu": [
+        20.0,
+        40.0
+      ],
+      "color": [
+        4.5,
+        7.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "18C"
+    },
+    "D": {
+      "category": 26,
+      "subcategory": "D",
+      "style": "Belgian Dark Strong Ale",
+      "og": [
+        1.075,
+        1.11
+      ],
+      "fg": [
+        1.01,
+        1.024
+      ],
+      "abv": [
+        0.08,
+        0.12
+      ],
+      "ibu": [
+        20.0,
+        35.0
+      ],
+      "color": [
+        12.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "very-high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "western-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "traditional-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "18E"
+    }
+  },
+  "27": {
+    "A": {
+      "category": "27",
+      "subcategory": "A",
+      "style": "Historical Beer: Gose",
+      "og": [
+        1.036,
+        1.056
+      ],
+      "fg": [
+        1.006,
+        1.01
+      ],
+      "abv": [
+        0.042,
+        0.048
+      ],
+      "ibu": [
+        5.0,
+        12.0
+      ],
+      "color": [
+        3.0,
+        4.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": "27",
+      "subcategory": "B",
+      "style": "Historical Beer: Kentucky Common",
+      "og": [
+        1.044,
+        1.055
+      ],
+      "fg": [
+        1.01,
+        1.018
+      ],
+      "abv": [
+        0.04,
+        0.055
+      ],
+      "ibu": [
+        15.0,
+        30.0
+      ],
+      "color": [
+        11.0,
+        20.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "balanced",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "C": {
+      "category": "27",
+      "subcategory": "C",
+      "style": "Historical Beer: Lichtenhainer",
+      "og": [
+        1.032,
+        1.04
+      ],
+      "fg": [
+        1.004,
+        1.008
+      ],
+      "abv": [
+        0.035,
+        0.047
+      ],
+      "ibu": [
+        5.0,
+        12.0
+      ],
+      "color": [
+        3.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "smoke",
+      "cat_sub_2008": "New"
+    },
+    "D": {
+      "category": "27",
+      "subcategory": "D",
+      "style": "Historical Beer: London Brown Ale",
+      "og": [
+        1.033,
+        1.038
+      ],
+      "fg": [
+        1.012,
+        1.015
+      ],
+      "abv": [
+        0.028,
+        0.036
+      ],
+      "ibu": [
+        15.0,
+        20.0
+      ],
+      "color": [
+        22.0,
+        35.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "dark-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "british-isles",
+      "style_family": "brown-ale-family",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "sweet",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "15D"
+    },
+    "E": {
+      "category": "27",
+      "subcategory": "E",
+      "style": "Historical Beer: Pivo Grodziskie",
+      "og": [
+        1.028,
+        1.032
+      ],
+      "fg": [
+        1.006,
+        1.012
+      ],
+      "abv": [
+        0.025,
+        0.033
+      ],
+      "ibu": [
+        20.0,
+        35.0
+      ],
+      "color": [
+        3.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "session-strength",
+      "color_name": "pale-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "smoke",
+      "cat_sub_2008": "New"
+    },
+    "F": {
+      "category": "27",
+      "subcategory": "F",
+      "style": "Historical Beer: Pre-Prohibition Lager",
+      "og": [
+        1.044,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.015
+      ],
+      "abv": [
+        0.045,
+        0.06
+      ],
+      "ibu": [
+        25.0,
+        40.0
+      ],
+      "color": [
+        3.0,
+        6.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "pale-color",
+      "fermentation": "bottom-fermented",
+      "conditioning": "lagered",
+      "region_of_origin": "north-america",
+      "style_family": "pilsner-family",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "bitter",
+      "sour_hoppy_sweet": "hoppy",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "G": {
+      "category": "27",
+      "subcategory": "G",
+      "style": "Historical Beer: Pre-Prohibition Porter",
+      "og": [
+        1.046,
+        1.06
+      ],
+      "fg": [
+        1.01,
+        1.016
+      ],
+      "abv": [
+        0.045,
+        0.06
+      ],
+      "ibu": [
+        20.0,
+        30.0
+      ],
+      "color": [
+        18.0,
+        30.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "dark-color",
+      "fermentation": "any-fermentation",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "porter-family",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "malty",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "2C"
+    },
+    "H": {
+      "category": "27",
+      "subcategory": "H",
+      "style": "Historical Beer: Roggenbier",
+      "og": [
+        1.046,
+        1.056
+      ],
+      "fg": [
+        1.01,
+        1.014
+      ],
+      "abv": [
+        0.045,
+        0.06
+      ],
+      "ibu": [
+        10.0,
+        20.0
+      ],
+      "color": [
+        14.0,
+        19.0
+      ],
+      "tags": "",
+      "strength": "standard-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "wheat-beer-family",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "I": {
+      "category": "27",
+      "subcategory": "I",
+      "style": "Historical Beer: Sahti",
+      "og": [
+        1.076,
+        1.12
+      ],
+      "fg": [
+        1.016,
+        1.02
+      ],
+      "abv": [
+        0.07,
+        0.11
+      ],
+      "ibu": [
+        7.0,
+        15.0
+      ],
+      "color": [
+        4.0,
+        22.0
+      ],
+      "tags": "",
+      "strength": "high-strength",
+      "color_name": "amber-color",
+      "fermentation": "top-fermented",
+      "conditioning": "",
+      "region_of_origin": "central-europe",
+      "style_family": "",
+      "specialty_beer": "",
+      "era": "historical-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "11B"
+    }
+  },
+  "28": {
+    "A": {
+      "category": 28,
+      "subcategory": "A",
+      "style": "Brett Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "wild-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "craft-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": 28,
+      "subcategory": "B",
+      "style": "Mixed Fermentation Sour Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "wild-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "craft-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "C": {
+      "category": 28,
+      "subcategory": "C",
+      "style": "Soured Fruit Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "wild-fermented",
+      "conditioning": "",
+      "region_of_origin": "north-america",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "craft-style",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "sour",
+      "spice": "",
+      "smoke_roast_wood_fruit": "fruit",
+      "cat_sub_2008": "New"
+    }
+  },
+  "29": {
+    "A": {
+      "category": 29,
+      "subcategory": "A",
+      "style": "Fruit Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "fruit",
+      "cat_sub_2008": "20A"
+    },
+    "B": {
+      "category": 29,
+      "subcategory": "B",
+      "style": "Fruit and pice Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "fruit",
+      "cat_sub_2008": "23 (new)"
+    },
+    "C": {
+      "category": 29,
+      "subcategory": "C",
+      "style": "Specialty Fruit Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "fruit",
+      "cat_sub_2008": "23 (new)"
+    }
+  },
+  "30": {
+    "A": {
+      "category": 30,
+      "subcategory": "A",
+      "style": "Spice, Herb, or Vegetable Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "21A"
+    },
+    "B": {
+      "category": 30,
+      "subcategory": "B",
+      "style": "Autumn Seasonal Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "C": {
+      "category": 30,
+      "subcategory": "C",
+      "style": "Winter Seasonal Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "spice",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "21B"
+    }
+  },
+  "31": {
+    "A": {
+      "category": 31,
+      "subcategory": "A",
+      "style": "Alternative Grain Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    },
+    "B": {
+      "category": 31,
+      "subcategory": "B",
+      "style": "Alternative Sugar Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "New"
+    }
+  },
+  "32": {
+    "A": {
+      "category": 32,
+      "subcategory": "A",
+      "style": "Classic Style Smoked Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "smoke",
+      "cat_sub_2008": "22B"
+    },
+    "B": {
+      "category": 32,
+      "subcategory": "B",
+      "style": "Specialty Smoked Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "smoke",
+      "cat_sub_2008": "23 (new)"
+    }
+  },
+  "33": {
+    "A": {
+      "category": 33,
+      "subcategory": "A",
+      "style": "Wood-Aged Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "wood",
+      "cat_sub_2008": "22C"
+    },
+    "B": {
+      "category": 33,
+      "subcategory": "B",
+      "style": "Specialty Wood-Aged Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "wood",
+      "cat_sub_2008": "22C/23 (new)"
+    }
+  },
+  "34": {
+    "A": {
+      "category": 34,
+      "subcategory": "A",
+      "style": "Clone Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "23 (new)"
+    },
+    "B": {
+      "category": 34,
+      "subcategory": "B",
+      "style": "Mixed-Style Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "23 (new)"
+    },
+    "C": {
+      "category": 34,
+      "subcategory": "C",
+      "style": "Experimental Beer",
+      "og": [],
+      "fg": [],
+      "abv": [],
+      "ibu": [],
+      "color": [],
+      "tags": "",
+      "strength": "",
+      "color_name": "",
+      "fermentation": "",
+      "conditioning": "",
+      "region_of_origin": "",
+      "style_family": "",
+      "specialty_beer": "specialty-beer",
+      "era": "",
+      "bitter_balance_malty": "",
+      "sour_hoppy_sweet": "",
+      "spice": "",
+      "smoke_roast_wood_fruit": "",
+      "cat_sub_2008": "23"
+    }
+  }
+}

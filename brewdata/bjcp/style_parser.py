@@ -135,10 +135,10 @@ def main():
                     style_map[cat][subcat] = info
 
     with open('categories.json', 'w') as fileobj:
-        fileobj.write(json.dumps(categories))
+        fileobj.write(json.dumps(categories, indent=2))
 
     with open('styles.json', 'w') as fileobj:
-        fileobj.write(json.dumps(style_map))
+        fileobj.write(json.dumps(style_map, indent=2))
 
 
 if __name__ == "__main__":
